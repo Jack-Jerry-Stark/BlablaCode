@@ -25,8 +25,8 @@ Enregistrement le mardi 18/08/20 à 17h00
 ##### INTRO/PRESENTATION INVITEE/PRESENTATION SUJETS TRAITES
 
  1. Stack les plus demandés sur le marché du travail?
-	1A . Faut-il privilégier php ou node pour le back?
-	1B . Côté front quel framework est le plus demandé?(Angular, Vue, React, Jquery)
+	1A. Faut-il privilégier php ou node pour le back?
+	1B. Côté front quel framework est le plus demandé?(Angular, Vue, React, Jquery)
 
  2. Comment vois-tu le marché du travail pour cette fin d'année 2020?
 	2A. Quelle place pour des juniors?
