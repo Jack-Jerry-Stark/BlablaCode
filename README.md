@@ -1,4 +1,4 @@
-# BlablaCode[Lien vers la chaîne](https://www.youtube.com/c/LeBlablaCode)
+# BlablaCode [Lien vers la chaîne](https://www.youtube.com/c/LeBlablaCode)
 
 
 Liste des sujets traités dans le BlablaCode: 
@@ -18,8 +18,8 @@ Déjà en ligne [voir ici](https://www.youtube.com/watch?v=lPhRqmmYa7Y)
 
 # VIDEO 03 - TRAVAILLER DANS LE WEB : NOTICE POUR UN DEV JUNIOR.
 
-### INVITEE SHIRLEY, Recruteuse I.T.
-##### Enregistrement le mardi 18/08/20 à 17h00
+INVITEE SHIRLEY, Recruteuse I.T.
+Enregistrement le mardi 18/08/20 à 17h00
 
 ##### INTRO/PRESENTATION INVITEE/PRESENTATION SUJETS TRAITES
 
