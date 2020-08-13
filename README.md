@@ -18,7 +18,7 @@ Déjà en ligne [voir ici](https://www.youtube.com/watch?v=lPhRqmmYa7Y)
 
 # VIDEO 03 - TRAVAILLER DANS LE WEB : NOTICE POUR UN DEV JUNIOR.
 
-INVITEE SHIRLEY, Recruteuse I.T.
+Invitée:  SHIRLEY @ShirleyAlmCh, Recruteuse I.T.
 Enregistrement le mardi 18/08/20 à 17h00
 
 ##### INTRO/PRESENTATION INVITEE/PRESENTATION SUJETS TRAITES
