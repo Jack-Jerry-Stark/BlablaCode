@@ -1,4 +1,5 @@
-# BlablaCode [Lien vers la chaîne](https://www.youtube.com/c/LeBlablaCode)
+# BlablaCode 
+[Lien vers la chaîne](https://www.youtube.com/c/LeBlablaCode)
 
 
 Liste des sujets traités dans le BlablaCode: 
