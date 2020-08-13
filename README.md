@@ -3,13 +3,17 @@ Listes des sujets traités dans le BlablaCode :
 -----------------
 
 # VIDEO 01 - PRESENTATION DU BLABLACODE
+Déjà en ligne
 -----------------
+
 # VIDEO 02 - PotterWorld ép. 01 : Présentation
+Déjà en ligne
 -----------------
+
 # VIDEO 03 - TRAVAILLER DANS LE WEB : NOTICE POUR UN DEV JUNIOR.
------------------
+
 ### INVITEE SHIRLEY, Recruteuse I.T.
-#### Enregistrement le mardi 18/08/20 à 17h00
+##### Enregistrement le mardi 18/08/20 à 17h00
 
 ##### INTRO/PRESENTATION INVITEE/PRESENTATION SUJETS TRAITES
 
