@@ -42,7 +42,7 @@ Enregistrement le mardi 18/08/20 à 17h00
 
  5. Comment vois-tu le télétravail? 
 	* Es.tu pour ou contre? Et sous quelle forme(Full remote ou quelques jours par mois?)
-	* Est ce que les entreprise frnaçaises ont changé de mentalité vis à vie du télétravail?(carricature de "Je travail en slip en ragardant des séries toute la journée"...)
+	* Est ce que les entreprise françaises ont changé de mentalité vis à vie du télétravail?(caricature de "Je travail en slip en ragardant des séries toute la journée"...)
 	* Quels arguments donnerais-tu à une entreprise frileuse sur le remote, pour lui faire recruter un candidat en full remote car il n'habite pas la même zone géographique ou qu'il est plus axé là-dessus?
 
  6. Quel conseils donnerais-tu à un dev junior qui sort d'étude, pour trouver son premier emploi de développeur?(mise en avant, technique de candidature, type de cv, ...)
